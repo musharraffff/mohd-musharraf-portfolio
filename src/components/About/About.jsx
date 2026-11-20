@@ -8,8 +8,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="min-h-[85vh] py-16 px-[7vw] md:px-[10vw] lg:px-[12vw] font-sans mt-16"
-    >
+      className="py-16 px-[7vw] md:px-[10vw] lg:px-[12vw] font-sans"    >
       <div className="flex flex-col-reverse md:flex-row justify-between items-center gap-12">
 
         {/* Left Side */}

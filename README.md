@@ -1,59 +1,59 @@
-# 🌐 Animated Portfolio Website
+# Mohd Musharraf – Personal Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A personal portfolio website showcasing my education, technical skills, development experience and projects.
 
-## 🚀 Live Demo
+## About
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+I'm Mohd Musharraf, a Computer Science graduate interested in full-stack web development. This portfolio presents my technical skills, academic background and projects.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+- React.js
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Vite
 
-## 📁 Features
+## Features
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+- Responsive portfolio design
+- Personal introduction and profile
+- Technical skills section
+- Education and qualifications
+- Contact form powered by EmailJS
+- Resume download
+- GitHub and social links
 
+## Run Locally
 
-## 🧑‍💻 How to Use
-
-### 1. Clone the Repo
+Clone the repository:
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
 
-### 2. Install Dependencies
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-### 3. Run the App
+Start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
-### 4. Build for Production
+Create a production build:
 
 ```bash
 npm run build
 ```
 
-## 📹 YouTube Tutorial
+## Contact
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+- Email: mohdmushharraf8839@gmail.com
+- GitHub: https://github.com/musharraffff
+- LinkedIn: https://www.linkedin.com/in/mohammed-musharraf-401832362/
 
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
